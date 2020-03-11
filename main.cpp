@@ -7,7 +7,7 @@ int main()
 {
     for (int i = 0; i < 100; i++)
     {
-        char* x = 'aaaaaaaaaaaaa';
+        char* x = 'a';
     }
     cout<<"Hi, please enter two numbers: ";
     int n1;
