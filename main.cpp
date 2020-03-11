@@ -5,6 +5,10 @@ using std::cout;
 
 int main()
 {
+    for (int i = 0; i < 100; i++)
+    {
+        char* x = 'aaaaaaaaaaaaa';
+    }
     cout<<"Hi, please enter two numbers: ";
     int n1;
     int n2;
