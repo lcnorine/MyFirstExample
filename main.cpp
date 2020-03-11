@@ -8,6 +8,7 @@ int main()
     for (int i = 0; i < 100; i++)
     {
         int* x = i;
+        delete &x;
     }
     cout<<"Hi, please enter two numbers: ";
     int n1;
